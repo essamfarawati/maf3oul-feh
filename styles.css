@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+scroll-behavior: smooth;
+}
+
+
+
+body {
+    background-color: #7ba9ee;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5rem auto;
+        max-width: 1200px;
+}
